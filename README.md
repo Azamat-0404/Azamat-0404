@@ -35,5 +35,5 @@
 ---
 
 ## 📫 Связь
-- 💬 Telegram: @@Azamat_2011
+- 💬 Telegram: @Azamat_2011
 - 📧 Email: dlymain@gmail.com
